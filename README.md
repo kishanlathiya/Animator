@@ -1,16 +1,6 @@
 # pr6_2_animator
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://user-images.githubusercontent.com/113701661/204158200-f2344c5c-c6d8-40f4-b25c-e2f157b476cf.mp4">
+<img src = "https://user-images.githubusercontent.com/113701661/204158263-3c881023-dd45-476f-8381-8d2e2aaabeee.png" height = 540 width = 250>
+<img src = "https://user-images.githubusercontent.com/113701661/204158266-74de0505-e0d0-4df8-9890-4bee22758274.png" height = 540 width = 250>
